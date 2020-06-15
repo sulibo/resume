@@ -3,61 +3,58 @@
 #
 
 sidebar:
-    about: True # set to False or comment line if you want to remove the "how to use?" in the sidebar
+    about: False # set to False or comment line if you want to remove the "how to use?" in the sidebar
     education: True # set to False if you want education in main section instead of in sidebar
 
     # Profile information
-    name: Alan Doe
-    tagline: Full Stack Developer
+    name: Libo Su
+    tagline: Early Stage Researcher/PhD Candidate
     avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
-    email: hello@webjeda.com
-    phone: 012 345 6789
-    website: blog.webjeda.com #do not add http://
-    linkedin: alandoe
-    github: sharu725
+    email: libo.su@outlook.com
+    phone: +31 638417265
+    website: sulibo.github.io  #do not add http://
+    linkedin: sulibo
+    github: sulibo
     telegram: # add your nickname without '@' sign
     gitlab:
     bitbucket:
-    twitter: '@webjeda'
+    twitter: #'@webjeda'
     stack-overflow: # Number/Username, e.g. 123456/alandoe
     codewars:
     goodreads: # Number-Username, e.g. 123456-alandoe
 
     languages:
-      - idiom: English
+      - idiom: Chinese (Mandarin)
         level: Native
 
-      - idiom: French
+      - idiom: English
         level: Professional
 
-      - idiom: Spanish
-        level: Professional
+        # - idiom: German
+        #level: Professional
 
     interests:
-      - item: Climbing
-        link:
-
-      - item: Snowboarding
+      - item: Badminton
         link:
 
       - item: Cooking
         link:
 
+
 career-profile:
     title: Career Profile
     summary: |
-      Summarise your career here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. You can [download this free resume/CV template here]().
-      Aenean commodo ligula eget dolor aenean massa. Cum sociis natoque
-      penatibus et magnis dis parturient montes, nascetur ridiculus mus.
-      Donec quam felis, ultricies nec, pellentesque eu.
-      Second paragraph if required.
+      I am an engineer and a Marie Curie Early Stage Researcher in Systems and Control Engineering, focussing on time-delay systems, nonlinear systems, and synchronization in networked systems. I am interested in projects that require working within a multidisciplinary and international team, an understanding of algorithms (mathematical or otherwise), and creative ideas.
+      #I have previously demonstrated proficiency in Control Theory and its applications, via projects such as synthetic network robustness analysis, optimal control applications in detecting
+      #and abating epileptic seizures, robotic manipulator control, etc. I value my adaptability within a short time frame, and analytical mindset, to be the key factors that led to my
+      #contributions in these projects.
+
 education:
-    - degree: MSc in Computer Science
-      university: University of London
-      time: 2011 - 2012
+    - degree: Master of Science in Mechanical Engineering 
+      university: Eindhoven University of Technology 
+      time: 2011 - 2013
       details: |
         Describe your study here lorem ipsum dolor sit amet, consectetuer
         adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
@@ -66,8 +63,9 @@ education:
         pretium quis, sem.
           - Bullet point
           - Bullet point
-    - degree: BSc in Applied Mathematics
-      university: Bristol University
+
+    - degree: Bachelor of Engineering in Mechanical Engineering and Automation
+      university: Zhejiang University
       time: 2007 - 2011
       details: |
         Describe your study here lorem ipsum dolor sit amet, consectetuer
@@ -78,9 +76,15 @@ education:
           - Bullet point
           - Bullet point
 experiences:
-    - role: Lead Developer
-      time: 2015 - Present
-      company: Startup Hubs, San Francisco
+    - role: Intern (Secondment) 
+      time: May 2019 - Aug 2019 
+      company: TNO, Helmond, the Netherlands
+      details: | 
+        Vehicle platoon 
+
+    - role: Process Engineer
+      time: 2015 - 2016
+      company: Syncreon, Waalwijk, the Netherlands
       details: |
         Describe your role here lorem ipsum dolor sit amet, consectetuer
         adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
@@ -93,9 +97,9 @@ experiences:
         architecto beatae vitae dicta sunt explicabo.
           - Bullet point
           - Bullet point
-    - role: Senior Software Engineer
+    - role: System Engineer
       time: 2014 - 2015
-      company: Google, London
+      company: Applied Micro Electronics "AME" B.V., Eindhoven, the Netherlands
       details: |
         Describe your role here lorem ipsum dolor sit amet, consectetuer
         adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
@@ -104,9 +108,21 @@ experiences:
         pellentesque eu, pretium quis, sem.
           - Bullet point
           - Bullet point
-    - role: UI Developer
-      time: 2012 - 2014
-      company: Amazon, London
+    - role: Intern (Mater graduation project)
+      time: Jan 2013 - Aug 2013
+      company: Phiips, Eindhoven, the Netherlands
+      details: |
+        Describe your role here lorem ipsum dolor sit amet, consectetuer
+        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
+        Cum sociis natoque penatibus et magnis dis parturient montes,
+        nascetur ridiculus mus. Donec quam felis, ultricies nec,
+        pellentesque eu, pretium quis, sem.
+          - Bullet point
+          - Bullet point
+
+    - role: Intern (Internship)
+      time: Aug 2013 - Dec 2013
+      company: Phiips, Eindhoven, the Netherlands
       details: |
         Describe your role here lorem ipsum dolor sit amet, consectetuer
         adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
@@ -168,23 +184,23 @@ skills:
     title: Skills &amp; Proficiency
 
     toolset:
-      - name: Python & Django
+      - name: MATLAB/Simulink
         level: 98%
 
-      - name: Javascript & jQuery
-        level: 98%
+      - name: Python
+        level: 38%
 
-      - name: Angular
-        level: 98%
+      - name: C/C++
+        level: 38%
 
-      - name: HTML5 & CSS
-        level: 95%
+      - name: Linux
+        level: 50%
 
-      - name: Ruby on Rails
-        level: 85%
+      - name: Siemens NX
+        level: 65%
 
-      - name: Sketch & Photoshop
-        level: 60%
+      - name: AutoCAD
+        level: 70%
 
 footer: >
     Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
