@@ -46,10 +46,8 @@ sidebar:
 career-profile:
     title: Career Profile
     summary: |
-      I am an engineer and a Marie Curie Early Stage Researcher in Systems and Control Engineering, focussing on time-delay systems, nonlinear systems, and synchronization in networked systems. I am interested in projects that require working within a multidisciplinary and international team, an understanding of algorithms (mathematical or otherwise), and creative ideas.
-      #I have previously demonstrated proficiency in Control Theory and its applications, via projects such as synthetic network robustness analysis, optimal control applications in detecting
-      #and abating epileptic seizures, robotic manipulator control, etc. I value my adaptability within a short time frame, and analytical mindset, to be the key factors that led to my
-      #contributions in these projects.
+      I am a Marie Curie Early Stage Researcher/PhD researcher in Systems and Control Engineering, focussing on time-delay systems, nonlinear systems, and synchronization in networked systems. I am available for new poistions as of December 2020. I am interested in projects that require working within a multidisciplinary and international team, an analytical mindset, and creative ideas.
+
 
 education:
     - degree: (joint) PhD
@@ -86,105 +84,28 @@ experiences:
       time: May 2019 - Aug 2019 
       company: TNO, Helmond, the Netherlands
       details: | 
-        Vehicle platoon 
-
+        In this secondment at the Integrated Vehicle Safety group at TNO, I was working on a control design to achieve platooning of vehicles with dynamics limitations.The design, grounded in model predictive control (MPC), employs a cooperative adaptive cruise control (CACC) strategy to achieve vehicle platooning.
     - role: Process Engineer
       time: 2015 - 2016
       company: Syncreon, Waalwijk, the Netherlands
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem. Nulla consequat massa quis
-        enim. Donec pede justo. Sed ut perspiciatis unde omnis iste natus
-        error sit voluptatem accusantium doloremque laudantium, totam rem
-        aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
-        architecto beatae vitae dicta sunt explicabo.
-          - Bullet point
-          - Bullet point
+        As a process/automation engineer at Syncreon, I was working alongside our customers in the design and install of engineering solutions, while also working with our suppliers and managing the engineering project finances and planning. My primary responsibility lied in setup and maintenance of production lines, especially in installation, validation, documentation and support of robots and automated equipment.
     - role: System Engineer
       time: 2014 - 2015
       company: Applied Micro Electronics "AME" B.V., Eindhoven, the Netherlands
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem.
-          - Bullet point
-          - Bullet point
+        Working as a system engineer responsible for developing mechatronics systems for domestic applications. I was involved in the entire development of the mechatronics systems consisting of plastic casings, motors, springs, sensors, etc., from conceptual design, prototyping, testing to mass production. Working in a ODM (original design manufacturer) as AME, I have also practiced my communication skills with customers and suppliers.
     - role: Intern (Mater graduation project)
       time: Jan 2013 - Aug 2013
       company: Phiips, Eindhoven, the Netherlands
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem.
-          - Bullet point
-          - Bullet point
+        In this project, an approach is proposed to study structural identifiability of an ultrasonic transducer and a method is developed to estimate transducer parameters by using transducer impedances to provide information on transducer quality. First, an equivalent circuit model for an ultrasonic transducer is shown. Second, the Laplace transform approach is extended and applied to analyze the structural identifiability of an ultrasonic transducer system. Structural identifiability of transducer parameters is studied to provide a guideline for the choice of parameters to be estimated. Finally, a Nonlinear Least Squares (NLS) method is developed to estimate the transducer parameters by fitting the simulated to the measured transducer impedances. The NLS method is applied to the parameter estimations of ultrasonic transducers with various parameters. The results show the robustness and accuracy of the method. In the project, MATLAB is extensively used for modeling, identifiability analysis and parameter estimation.
 
     - role: Intern (Internship)
       time: Aug 2013 - Dec 2013
       company: Phiips, Eindhoven, the Netherlands
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem.
-          - Bullet point
-          - Bullet point
-projects:
-    title: Projects
-    intro: >
-      You can list your side projects or open source libraries in this
-      section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-      Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
-    assignments:
-      - title: Velocity
-        link: "#hook"
-        tagline: "A responsive website template designed to help startups promote, market and sell their products."
-
-      - title: DevStudio
-        link: "#"
-        tagline: "A responsive website template designed to help web developers/designers market their services."
-
-      - title: Tempo
-        link: "#"
-        tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
-
-      - title: Atom
-        link: "#"
-        tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
-
-      - title: Delta
-        link: "#"
-        tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
-
-publications:
-    title: Publications
-    intro: |
-      You can list your publications in this section. Lorem ipsum dolor sit
-      amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
-      bibendum fringilla a eu lectus.
-    papers:
-      - title: The Art of Computer Programming
-        link: "#"
-        authors: Donald E. Knuth
-        conference: Addison-Wesley, 1968
-
-      - title: "Genetic Programming III: Darwinian Invention &amp; Problem Solving"
-        link: "#"
-        authors: Koza, J.R., Andre, D., Bennett, F.H., Keane, M.A.
-        conference: "Morgan Kaufmann Publishers Inc., San Francisco, CA, USA, 1st edn. (1999)"
-
-      - title: A syntax directed compiler for Algol 60
-        link: "#"
-        authors: Edgar T. Irons
-        conference: "Comm. ACM 4 (1961), 51–55"
+        Within Philips Research various ultrasonic transducers are integrated in minimally invasive devices. Although there exist guidelines in literature for transducer design, quality assessment is still indispensable due to unavoidable manufacture errors. Therefore, it is desired to develop a simple and reliable way to perform the quality assessment of an ultrasonic transducer based on its impedance which is easy to obtain. In this internship, a Nonlinear Least Squares (NLS) method is developed to estimate transducer parameters by using transducer impedances to provide the information on transducer quality.
 
 skills:
     title: Skills &amp; Proficiency
