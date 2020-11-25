@@ -46,7 +46,7 @@ sidebar:
 career-profile:
     title: Career Profile
     summary: |
-      I am a Marie Curie Early Stage Researcher/PhD researcher in Systems and Control Engineering, focussing on time-delay systems, nonlinear systems, and synchronization in networked systems. I am available for new poistions as of December 2020. I am interested in projects that require working within a multidisciplinary and international team, an analytical mindset, and creative ideas.
+      I am a Marie Curie Early Stage Researcher/PhD researcher in Systems and Control Engineering, focusing on time-delay systems, nonlinear systems, and synchronization in networked systems. I am available for new positions as of December 2020. I am interested in projects that require working within a multidisciplinary and international team, an analytical mindset, and creative ideas.
 
 
 education:
@@ -84,7 +84,7 @@ experiences:
       time: May 2019 - Aug 2019 
       company: TNO, Helmond, the Netherlands
       details: | 
-        In this secondment at the Integrated Vehicle Safety group at TNO, I was working on a control design to achieve platooning of vehicles with dynamics limitations.The design, grounded in model predictive control (MPC), employs a cooperative adaptive cruise control (CACC) strategy to achieve vehicle platooning.
+        In this secondment at the Integrated Vehicle Safety group at TNO, I was working on a control design to achieve platooning of vehicles with dynamics limitations. The design, grounded in model predictive control (MPC), employs a cooperative adaptive cruise control (CACC) strategy to achieve vehicle platooning.
     - role: Process Engineer
       time: 2015 - 2016
       company: Syncreon, Waalwijk, the Netherlands
